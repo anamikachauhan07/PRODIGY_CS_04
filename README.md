@@ -19,13 +19,16 @@ This project was developed as part of the **Prodigy Infotech Cyber Security Inte
 - Python 3
 - pynput Library
 
+
 ## 📂 Project Structure
 
+```text
 PRODIGY_CS_04/
 │
 ├── keylogger.py
 ├── key_log.txt
 └── README.md
+```
 
 ## ⚙️ How It Works
 
