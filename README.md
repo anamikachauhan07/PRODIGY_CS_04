@@ -66,7 +66,6 @@ If the user presses **Tab**, **Backspace**, and **Enter**, the output may look l
 Hello[TAB][BACKSPACE]
 World
 
-
 ## 🎯 Learning Objectives
 
 This project demonstrates:
@@ -77,16 +76,6 @@ This project demonstrates:
 - Python Libraries (`pynput`)
 - Basic Cyber Security Concepts
 - Command-Line Application Development
-
-## 🔒 Ethical Considerations
-
-> **Disclaimer:**
->
-> This project is developed **strictly for educational purposes** as part of the **Prodigy Infotech Cyber Security Internship**.
->
-> It should only be executed on systems where you have **explicit permission** to monitor keyboard activity.
->
-> Unauthorized use of keyloggers to capture another person's keystrokes may violate privacy laws and ethical guidelines.
 
 ## 👩‍💻 Author
 
